@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Introdução à Programação em Python
+title: Introdução à Python
 description: Material didático do workshop promovido pela PyLadies Beira
 ---
 
-# Introdução à Programação em Python
+# Introdução à Python
 
 ## PyLadies Beira – Província de Sofala
 
@@ -34,14 +34,3 @@ O material aqui disponibilizado foi estruturado para ser consultado de forma seq
 - Instalação do interpretador Python (Versão 3.10 ou superior).
 - Ambiente de desenvolvimento configurado (VS Code ou similar).
 
----
-
-## Licença e Termos de Utilização
-
-Este material pedagógico e os respectivos códigos de exemplo são distribuídos sob a **[Licença MIT](./../LICENSE)**.
-
-A escolha desta licença visa promover a máxima disseminação do conhecimento, permitindo que o conteúdo seja utilizado, copiado e modificado livremente, desde que seja mantida a devida atribuição de autoria à **PyLadies Beira**.
-
-Consulte o ficheiro [LICENSE](./../LICENSE) para obter o texto integral dos termos de utilização.
-
-&copy; 2026 PyLadies Beira.

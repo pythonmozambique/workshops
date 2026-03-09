@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercícios | Introdução à Programação em Python
+title: Exercícios | Introdução à Python
 description: Material didático do workshop promovido pela PyLadies Beira
 ---
 

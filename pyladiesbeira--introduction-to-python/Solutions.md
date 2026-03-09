@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soluções de Ecercícios | Introdução à Programação em Python
+title: Soluções de Ecercícios | Introdução à Python
 description: Material didático do workshop promovido pela PyLadies Beira
 ---
 

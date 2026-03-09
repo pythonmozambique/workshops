@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Guia - Conteúdo Programático | Introdução à Programação em Python
+title: Guia - Conteúdo Programático | Introdução à Python
 description: Material didático do workshop promovido pela PyLadies Beira
 ---
-
-## Guia - Conteúdo Programático
 
 # O que é Programação?
 
